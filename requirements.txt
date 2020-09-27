@@ -18,6 +18,7 @@ ipy
 elasticsearch<7
 django-ipware
 gunicorn
+markdown<4.0
 djangorestframework<3.11.2
 markdown<3.0
 django-filter<2.0
