@@ -20,7 +20,7 @@ elasticsearch<8
 django-ipware
 gunicorn
 markdown<4.0
-djangorestframework<3.12.3
+djangorestframework<3.12.4
 markdown<3.0
 django-filter<3.0
 idstools
