@@ -3,7 +3,7 @@ Django>=1.11.10,<4
 django-bootstrap3
 django-revproxy
 django-dbbackup<4.0
-django-tables2<2.4
+django-tables2<2.5
 django-dbbackup<3.0
 gitdb
 GitPython
